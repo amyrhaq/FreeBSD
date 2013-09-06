@@ -1,0 +1,41 @@
+body{
+	margin:0px;
+}
+#header{
+float: left;
+height: 50px;
+background-color: red;
+width: 960px;
+
+}
+
+#wrap{
+background: #eee;
+color: red;
+}
+
+.first li{
+	display: inline;
+}
+
+#sidebar{
+	float: left;
+	min-height: 200px;
+	background-color: gray;
+	width: 150px;
+
+}
+
+#main_content{
+	float:right;
+	min-height: 700px;
+	background-color: blue;
+	width: 760px;
+
+	
+}
+hr{
+	color:black;
+}
+
+
